@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Front-end+Developer+👨‍💻;JavaScript+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
-<h3 align="center">I create beautiful websites with a focus on responsive design.</h3>
+<h3 align="center">I Create Beautiful Websites with a Focus on Responsive Design.</h3>
 
-## 🔗 Connect with me on:
+## 🔗 Connect With me on:
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmedhamzaarif/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedhamzaarif&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" /> 
 </p>
 
-## ⚙️ Languages & Tools that I work with:
+## ⚙️ Languages & Tools that I Work with:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,vscode">
 </p>
